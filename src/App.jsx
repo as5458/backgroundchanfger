@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <div className='w-full h-screen duration-200'   style={{backgroundColor:color}}>
+     <div className='w-full h-screen duration-200'   style={{ackgroundColor:color}}>
       <div className='fixed flex flex-wrap justify-center bottom-12 insert-x-0 px-2'>
         <div className='flex flex-wrap justify-center gap-10 shadow-lg bg-white px-3 px-2'>
           <button className='outline-none px-4 py-1 text-white rounded-full text-white'
